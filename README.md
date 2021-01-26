@@ -1,3 +1,3 @@
 # PacMan-Finally
-HTML5 Game from scratch with JavaScript
-![](https://github.com/DrVicki/Dr-Vickis-Pacman/blob/main/pacman/demo.gif)<br>
+## HTML5 Game from scratch with JavaScript
+![](https://github.com/DrVicki/PacMan-Finally/blob/main/PacMan/PacManDemo.gif)<br>
